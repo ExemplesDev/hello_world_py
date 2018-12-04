@@ -1,4 +1,4 @@
-# HelloWorld_cpp : C++ Source code for tests
+# hello_world_py : Python Source code for tests
 
 ## Objectives
 
