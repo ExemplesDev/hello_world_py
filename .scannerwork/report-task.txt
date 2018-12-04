@@ -1,0 +1,6 @@
+projectKey=Message
+serverUrl=http://localhost:9000/sonar
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=Message
+ceTaskId=AWd4tmCBGPhn0FrP0mp9
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWd4tmCBGPhn0FrP0mp9
